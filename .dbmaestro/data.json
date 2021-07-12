@@ -1,0 +1,27 @@
+{
+  "Projects": [
+    {
+      "GlobalData": {
+        "ProjectId": "d0e6f0fd-87c4-485c-a4e2-40f2e319b591",
+        "ProjectName": "test",
+        "DBTypeName": "SQL Server",
+        "Environments": null,
+        "SourceControlPathType": 0,
+        "Configuration": {
+          "BuildMigrationScriptAutomatically": true,
+          "BuildMethod": 1,
+          "NumberOfRevisionsInViewHistory": 50,
+          "BuildDeploymentScriptOnPush": false
+        },
+        "ProjectArchitecture": 0,
+        "LocalDirectory": "c:\\temp\\testproject"
+      },
+      "UserData": [
+        {
+          "UserName": "dbmisrael",
+          "DatabasesData": []
+        }
+      ]
+    }
+  ]
+}

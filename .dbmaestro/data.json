@@ -56,6 +56,27 @@
               }
             }
           ]
+        },
+        {
+          "UserName": "israelys",
+          "DatabasesData": [
+            {
+              "DatabaseId": "4edb1ac8-8665-4f36-873d-533274e496e5",
+              "DatabaseAliasName": "db1",
+              "DatabaseConnectionDetails": {
+                "DBTypeName": "SQL Server",
+                "Host": "WIN-MP6V5RKH9R7",
+                "AuthenticationType": 1,
+                "Username": "sa",
+                "Password": "Q3iMZmVHSBm4fbKSGHQh+w==",
+                "DatabaseName": "demo5"
+              },
+              "RepositoryCredentials": {
+                "UserName": "israelys",
+                "Password": "coNX46mTm7tzeLws8x9z6FI3C3TnHeMLUVfK2GEDw93J637s/T0t+nX51glf9Pvr"
+              }
+            }
+          ]
         }
       ]
     }

@@ -46,6 +46,20 @@
               }
             }
           ]
+        },
+        {
+          "UserName": "israelys",
+          "DatabasesData": [
+            {
+              "DatabaseId": "eb6d9b0a-4cad-4114-b26c-632aa84fa27b",
+              "DatabaseAliasName": "db1",
+              "ConnectionString": "KKJDbgSxcgWlVPhvyMH4I2oaATD0HTQQEe3ElgZ6FFupWMCjGuSGrom2GWmak/pYaJnu8Boj8KNwHKAQTLErtc7BBMiVZJajfV09sGc43BkPHFAzm8W5/zDrGSHPkQcTxwVLglH6RkaSqujMaX7zTA==",
+              "RepositoryCredentials": {
+                "UserName": "israelys",
+                "Password": "coNX46mTm7tzeLws8x9z6FI3C3TnHeMLUVfK2GEDw93J637s/T0t+nX51glf9Pvr"
+              }
+            }
+          ]
         }
       ]
     }

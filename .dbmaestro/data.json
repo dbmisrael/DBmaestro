@@ -15,7 +15,7 @@
                 "DatabaseId": "6bc19874-d862-4989-82d4-b196771b0596",
                 "DatabaseAliasName": "db1",
                 "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
+                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, <Unknown>",
                   "RemoteRepositoryURL": "https://github.com/dbmisrael/Demo",
                   "BranchName": "master"
                 }
@@ -43,6 +43,20 @@
               "RepositoryCredentials": {
                 "UserName": "dbmisrael",
                 "Password": "X+OpaC/bSJ4KCJuu/lectBXdxGyD5L2TdmQTrATe5VR73CIZrwygX9aKOgB8gFBm"
+              }
+            }
+          ]
+        },
+        {
+          "UserName": "israelys",
+          "DatabasesData": [
+            {
+              "DatabaseId": "6bc19874-d862-4989-82d4-b196771b0596",
+              "DatabaseAliasName": "db1",
+              "ConnectionString": "KKJDbgSxcgWlVPhvyMH4I2oaATD0HTQQEe3ElgZ6FFupWMCjGuSGrom2GWmak/pYaJnu8Boj8KNwHKAQTLErtc7BBMiVZJajfV09sGc43BkPHFAzm8W5/zDrGSHPkQcTxwVLglH6RkaSqujMaX7zTA==",
+              "RepositoryCredentials": {
+                "UserName": "israelys",
+                "Password": "coNX46mTm7tzeLws8x9z6FI3C3TnHeMLUVfK2GEDw93J637s/T0t+nX51glf9Pvr"
               }
             }
           ]

@@ -15,7 +15,7 @@
                 "DatabaseId": "6bc19874-d862-4989-82d4-b196771b0596",
                 "DatabaseAliasName": "db1",
                 "RepositoryDetails": {
-                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, <Unknown>",
+                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, DOP.SourceControl.ExternalSourceControl.Git",
                   "RemoteRepositoryURL": "https://github.com/dbmisrael/Demo",
                   "BranchName": "master"
                 }

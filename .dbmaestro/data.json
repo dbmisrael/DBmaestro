@@ -46,6 +46,20 @@
               }
             }
           ]
+        },
+        {
+          "UserName": "dbmisrael",
+          "DatabasesData": [
+            {
+              "DatabaseId": "f9afd02d-56a8-471c-a1b9-920c308a8065",
+              "DatabaseAliasName": "db1",
+              "ConnectionString": "KKJDbgSxcgWlVPhvyMH4I2oaATD0HTQQEe3ElgZ6FFupWMCjGuSGrom2GWmak/pYaJnu8Boj8KNwHKAQTLErtc7BBMiVZJajfV09sGc43BkPHFAzm8W5/zDrGSHPkQcTxwVLglH6RkaSqujMaX7zTA==",
+              "RepositoryCredentials": {
+                "UserName": "dbmisrael",
+                "Password": "X+OpaC/bSJ4KCJuu/lectBXdxGyD5L2TdmQTrATe5VR73CIZrwygX9aKOgB8gFBm"
+              }
+            }
+          ]
         }
       ]
     }

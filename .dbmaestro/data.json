@@ -5,7 +5,24 @@
         "ProjectId": "271003bc-28c2-4845-b66e-289a2f2cb288",
         "ProjectName": "testproject",
         "DBTypeName": "SQL Server",
-        "Environments": null,
+        "Environments": [
+          {
+            "EnvironmentId": "006c1581-4ee4-4f8b-9113-4bfc81dfcb2f",
+            "EnvironmentName": "Dev_Env_1",
+            "EnvironmentType": "DEV",
+            "Databases": [
+              {
+                "DatabaseId": "6bc19874-d862-4989-82d4-b196771b0596",
+                "DatabaseAliasName": "db1",
+                "RepositoryDetails": {
+                  "$type": "DOP.SourceControl.ExternalSourceControl.Git.Models.GitRepositoryDetails, <Unknown>",
+                  "RemoteRepositoryURL": "https://github.com/dbmisrael/Demo",
+                  "BranchName": "master"
+                }
+              }
+            ]
+          }
+        ],
         "SourceControlPathType": 0,
         "Configuration": {
           "BuildMigrationScriptAutomatically": true,
@@ -18,7 +35,17 @@
       "UserData": [
         {
           "UserName": "dbmisrael",
-          "DatabasesData": []
+          "DatabasesData": [
+            {
+              "DatabaseId": "6bc19874-d862-4989-82d4-b196771b0596",
+              "DatabaseAliasName": "db1",
+              "ConnectionString": "KKJDbgSxcgWlVPhvyMH4I2oaATD0HTQQEe3ElgZ6FFupWMCjGuSGrom2GWmak/pY3cKyPRP4+aGPyjSWW30R/UW3i5FZVJFLevH+3btKBLtQedsmwMqxk5S3ROY1wwfCXv1qbXFh7OSHM0vnL8b+Sw==",
+              "RepositoryCredentials": {
+                "UserName": "dbmisrael",
+                "Password": "X+OpaC/bSJ4KCJuu/lectBXdxGyD5L2TdmQTrATe5VR73CIZrwygX9aKOgB8gFBm"
+              }
+            }
+          ]
         }
       ]
     }
